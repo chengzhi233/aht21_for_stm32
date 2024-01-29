@@ -2,9 +2,6 @@
  * File: aht21.c
  * Author: Chengzhi233
  * Date: January 29, 2024
- * Description: Copyright (c) 2024 by Chengzhi233.
- *              All rights reserved. Unauthorized reproduction,
- *              in whole or in part, is strictly prohibited.
  ***************************************************************/
 #include "aht21.h"
 #include "main.h"
